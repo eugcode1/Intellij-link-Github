@@ -4,5 +4,6 @@
 public class link {
     public static void main(String[] args) {
         System.out.println("linked");
+        System.out.println("linked");
     }
 }
