@@ -1,5 +1,5 @@
 # link
-test link between github and intellij
+Setup link between Github and intellij IDE
 
 1. Install git on os
 2. Use git shell.
