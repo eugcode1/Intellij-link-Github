@@ -13,3 +13,4 @@ Setup link between Github and intellij IDE
    2. use 'VCS' for poll & push on top right bar
    3. right click the modified file to commit: 'Git' > 'Commit File'
    4. push modified file: 'Git' > 'Repository' > 'Push'
+   d
